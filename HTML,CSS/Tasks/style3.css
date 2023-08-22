@@ -1,0 +1,49 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.par {
+    margin: 40px;
+}
+
+.one {
+    background-color: lightblue;
+    text-align: center;
+    font-weight: bold;
+    padding: 30px 0 30px 0;
+    margin: 10px 0 10px 0;
+}
+
+.two {
+    background-color: lightblue;
+    text-align: center;
+    font-weight: bold;
+    padding: 20px 0 20px 0;
+}
+
+.right {
+    display: inline-block;
+    width: 59.45%;
+    margin: 10px 0 0 7px;
+    vertical-align: top;
+}
+
+.left {
+    display: inline-block;
+    width: 39.67%;
+    margin: 10px 0 0 0;
+}
+
+main {
+    padding: 125px 0 125px 0;
+    background-color: lightblue;
+    text-align: center;
+}
+
+.three {
+    background-color: lightblue;
+    text-align: center;
+    padding: 55px 0 56px 0;
+    margin: 0px 0px 10px 0;
+}
