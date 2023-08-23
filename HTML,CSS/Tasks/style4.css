@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#box {
+    width: 96%;
+    border: 3px dashed lightblue;
+    margin: 2%;
+}
+
+#box-1 {
+    width: 96%;
+    background-color: lightblue;
+    margin: 2%;
+    overflow: hidden;
+}
+
+.box-header {
+    background-color: white;
+    border: 1px solid black;
+    width: 97.8%;
+    margin: 2% 1% 2% 1%;
+    text-align: center;
+    padding: 20px 0 20px 0;
+}
+
+.left-div {
+    display: inline-block;
+    width: 18.8%;
+    height: 400px;
+    vertical-align: top;
+    margin: 0 0 2% 1%;
+}
+
+.right-div {
+    display: inline-block;
+    width: 78.1%;
+    height: 400px;
+    margin: 0 1% 2% .7%;
+}
+
+.box-menu {
+    background-color: white;
+    border: 1px solid black;
+    width: 99%;
+    text-align: center;
+    padding: 60px 0 320px 0;
+}
+
+.box-main {
+    display: inline-block;
+    background-color: white;
+    border: 1px solid black;
+    text-align: center;
+    padding: 60px 0 160px 0;
+    width: 39.5%;
+}
+
+.box-right {
+    display: inline-block;
+    background-color: white;
+    border: 1px solid black;
+    text-align: center;
+    padding: 60px 0 160px 0;
+    width: 58.98%;
+    margin-left: .7%;
+}
+
+.box-footer {
+    background-color: white;
+    border: 1px solid black;
+    margin-top: 2%;
+    text-align: center;
+    padding: 60px 0 60px 0;
+    
+}
