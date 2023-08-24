@@ -1,0 +1,33 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    background-color: #ffeba7;
+    text-align: center;
+    font-weight: bold;
+}
+
+.par{
+    width: 1200px;
+    margin: 30px auto;
+    border: 5px solid black;
+}
+
+header{
+    padding: 30px 0 30px 0;
+    background-color: lightpink;
+}
+
+nav{
+    padding: 20px 0 20px 0;
+    background-color: blue;
+}
+
+main{
+    background-color: white;
+    padding: 170px 0 170px 0;
+}
+
+footer{
+    padding: 30px 0 30px 0;
+    background-color: blueviolet;
+}

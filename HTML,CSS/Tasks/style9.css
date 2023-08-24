@@ -1,0 +1,83 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #ffeba7;
+    font-weight: bolder;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+#par {
+    width: 1200px;
+    margin: 20px auto;
+    background-color: white;
+}
+
+header {
+    padding: 20px 0 20px 0;
+    background-color: lightblue;
+}
+
+.all {
+    margin: 10px 30px;
+}
+
+.one{
+    display: flex;
+}
+
+.intro{
+    padding: 160px 0 160px 0;
+    flex: 2;
+    margin-right: 15px;
+    background-color: lightblue;
+}
+
+.hero{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.heroImage{
+    flex: 1;
+    background-color: lightblue;
+    margin-bottom: 10px;
+    padding: 140px 0 80px 0;
+}
+
+.action{
+    flex: 1;
+    background-color: darkgoldenrod;
+    padding-top: 25px;
+}
+
+.features{
+    padding: 23px 0 35px 0;
+    background-color: lightblue;
+    margin-top: 10px;
+}
+
+.two{
+    display: flex;
+    margin-top: 10px;
+}
+
+.moreCopy{
+    flex: 2;
+    background-color: lightblue;
+    padding: 15px 0 15px 0;
+    margin-right: 15px;
+}
+
+.action2{
+    flex: 1;
+    background-color: darkgoldenrod;
+    padding: 15px 0 15px 0;
+}
+
+footer{
+    padding: 10px 0 10px 0;
+    background-color: lightblue;
+}

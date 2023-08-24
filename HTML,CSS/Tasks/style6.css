@@ -1,0 +1,41 @@
+body,html{
+    margin: 0;
+    padding: 0;
+    background-color: #ffeba7;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+.par{
+    width: 1200px;
+    margin: 50px auto;
+}
+
+header {
+    background-color: orange;
+    padding-bottom: 70px;
+}
+
+.one{
+    display: flex;
+}
+
+nav{
+    display: inline-block;
+    background-color: blue;
+    flex: 1;
+    padding-bottom: 350px;
+}
+
+article{
+    display: inline-block;
+    background-color: green;
+    flex: 5;
+}
+
+footer{
+    background-color: brown;
+    padding-bottom: 50px;
+}

@@ -1,0 +1,59 @@
+html,
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: #f5e8ba;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.par {
+    background-color: #d3d3d3;
+    width: 1200px;
+    margin: 30px auto;
+}
+
+nav {
+    background-color: dimgrey;
+    width: 1000px;
+    margin: auto;
+    padding: 20px 0 20px 0;
+}
+
+.introduction {
+    background-color: dimgray;
+    width: 950px;
+    margin: 10px auto;
+    padding: 40px 0 40px 0;
+}
+
+.main {
+    margin: 20px auto;
+    width: 950px;
+    display: flex;
+
+}
+
+.mainContent {
+    display: inline-block;
+    background-color: black;
+    flex: 2;
+    margin-right: 20px;
+    padding: 100px 0 100px 0;
+}
+
+.sidebar {
+    display: inline-block;
+    background-color: darkgray;
+    flex: 1;
+    padding: 120px 0 120px 0;
+}
+
+footer{
+    background-color: dimgray;
+    width: 950px;
+    margin: 20px auto;
+    padding: 60px 0 60px 0;
+}
